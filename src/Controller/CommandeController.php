@@ -17,7 +17,6 @@ use App\Entity\Menu;
 use App\Entity\Horaire;
 use App\Entity\Utilisateur;
 use App\Form\CommandeType;
-use Symfony\Component\Security\Csrf\CsrfToken;
 
 class CommandeController extends AbstractController
 {
